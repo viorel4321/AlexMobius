@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="22_22">
+		<npc id="31226" x="83073" y="148393" z="-3470" heading="31470" respawnDelay="60" /> <!-- Arena Director -->
+		<npc id="32172" x="80909" y="144461" z="-3534" heading="49552" respawnDelay="60" /> <!-- Saylem - Warehouse Keeper -->
+		<npc id="32224" x="80987" y="144430" z="-3534" heading="64764" respawnDelay="60" /> <!-- Auren - Master -->
+	</spawn>
+</list>

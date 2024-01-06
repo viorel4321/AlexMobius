@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/npcs.xsd">
+	<npc id="80100" level="10" type="Monster" name="Белая Ласка" title="LvL:1-20">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>FAIRY</race>
+		<sex>MALE</sex>
+		<acquire exp="99" sp="29" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="39.74519" hpRegen="2" mp="40.0" mpRegen="0.9" />
+			<attack physical="8.47458" magical="5.78704" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="44.44444" magical="29.5916164000214" />
+			<attribute>
+				<defence fire="20" water="20" wind="53" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="20" />
+				<run ground="50" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="13" /> <!-- Fairies -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="6.5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="80101" level="20" type="Monster" name="Белая Ласка" title="LvL:20-40">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>FAIRY</race>
+		<sex>MALE</sex>
+		<acquire exp="160" sp="110" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="39.74519" hpRegen="2" mp="40.0" mpRegen="0.9" />
+			<attack physical="8.47458" magical="5.78704" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="44.44444" magical="29.5916164000214" />
+			<attribute>
+				<defence fire="20" water="20" wind="53" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="20" />
+				<run ground="50" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="13" /> <!-- Fairies -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="6.5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="80102" level="40" type="Monster" name="Белая Ласка" title="LvL:40-60">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>FAIRY</race>
+		<sex>MALE</sex>
+		<acquire exp="250" sp="200" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="39.74519" hpRegen="2" mp="40.0" mpRegen="0.9" />
+			<attack physical="8.47458" magical="5.78704" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="44.44444" magical="29.5916164000214" />
+			<attribute>
+				<defence fire="20" water="20" wind="53" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="20" />
+				<run ground="50" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="13" /> <!-- Fairies -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="6.5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="80103" level="60" type="Monster" name="Белая Ласка" title="LvL:60-75">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>FAIRY</race>
+		<sex>MALE</sex>
+		<acquire exp="270" sp="220" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="39.74519" hpRegen="2" mp="40.0" mpRegen="0.9" />
+			<attack physical="8.47458" magical="5.78704" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="44.44444" magical="29.5916164000214" />
+			<attribute>
+				<defence fire="20" water="20" wind="53" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="20" />
+				<run ground="50" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="13" /> <!-- Fairies -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="6.5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="80104" level="75" type="Monster" name="Белая Ласка" title="LvL:75-85">
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="0" />
+			<param name="MoveAroundSocial2" value="0" />
+		</parameters>
+		<race>FAIRY</race>
+		<sex>MALE</sex>
+		<acquire exp="290" sp="280" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="39.74519" hpRegen="2" mp="40.0" mpRegen="0.9" />
+			<attack physical="8.47458" magical="5.78704" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="44.44444" magical="29.5916164000214" />
+			<attribute>
+				<defence fire="20" water="20" wind="53" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="20" />
+				<run ground="50" />
+			</speed>
+			<hitTime>370</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!-- Average P. Atk. -->
+			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
+			<skill id="4412" level="11" /> <!-- Average P. Def. -->
+			<skill id="4413" level="11" /> <!-- Average M. Def. -->
+			<skill id="4414" level="2" /> <!-- Standard Type -->
+			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4416" level="13" /> <!-- Fairies -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="6.5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="80105" level="85" type="Merchant" name="Аллиар" title="Наставник Воинов">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="110" />
+		</parameters>
+		<stats str="103" int="40" dex="53" wit="37" con="84" men="39">
+			<vitals hp="18857" hpRegen="10.8" mp="3863" mpRegen="3.0" />
+			<attack physical="10198" magical="1305" random="30" critical="132" accuracy="177" attackSpeed="588" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="3388" magical="2450" />
+			<attribute>
+				<defence fire="200" water="250" wind="250" earth="250" holy="250" dark="250" />
+				<attack type="WATER" value="330" />
+			</attribute>
+			<speed>
+				<walk ground="85" />
+				<run ground="139" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="true" undying="true" attackable="false" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="80106" level="85" type="Merchant" name="Элиазар" title="Наставник Магов">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<parameters>
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="110" />
+		</parameters>
+		<stats str="103" int="40" dex="53" wit="37" con="84" men="39">
+			<vitals hp="18857" hpRegen="10.8" mp="3863" mpRegen="3.0" />
+			<attack physical="10198" magical="1305" random="30" critical="132" accuracy="177" attackSpeed="588" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="3388" magical="2450" />
+			<attribute>
+				<defence fire="200" water="250" wind="250" earth="250" holy="250" dark="250" />
+				<attack type="WATER" value="330" />
+			</attribute>
+			<speed>
+				<walk ground="85" />
+				<run ground="139" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="true" undying="true" attackable="false" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23" />
+		</collision>
+	</npc>
+</list>

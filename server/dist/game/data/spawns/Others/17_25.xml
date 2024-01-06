@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="17_25">
+		<npc id="80001" x="-84752" y="243577" z="-3722" heading="59066" respawnDelay="60" /> <!-- Могучий Стрелок - Grand Master -->
+		<npc id="80002" x="-84794" y="243540" z="-3722" heading="57343" respawnDelay="60" /> <!-- Искусный Убийца - Grand Master -->
+		<npc id="80003" x="-84838" y="243495" z="-3722" heading="54566" respawnDelay="60" /> <!-- Великий Защитник - Grand Master -->
+		<npc id="80004" x="-85180" y="243781" z="-3722" heading="25669" respawnDelay="60" /> <!-- Легендарный Волшебник - Grand Master -->
+		<npc id="80005" x="-85141" y="243828" z="-3722" heading="26451" respawnDelay="60" /> <!-- Великий Призыватель - Grand Master -->
+		<npc id="80006" x="-85102" y="243876" z="-3722" heading="21673" respawnDelay="60" /> <!-- Искусный Целитель - Grand Master -->
+		<npc id="80007" x="-85067" y="243921" z="-3722" heading="26372" respawnDelay="60" /> <!-- Могучий Заклинатель - Grand Master -->
+		<npc id="80000" x="-84724" y="243621" z="-3722" heading="51115" respawnDelay="60" /> <!-- Легендарный Воитель - Grand Master -->
+		<npc id="80100" x="-81444" y="247549" z="-3637" heading="26339" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80100" x="-81627" y="247558" z="-3637" heading="61394" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80100" x="-81405" y="247619" z="-3637" heading="13387" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80100" x="-81698" y="247654" z="-3637" heading="26919" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80100" x="-81909" y="247882" z="-3627" heading="22636" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80100" x="-81953" y="247851" z="-3627" heading="13333" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80100" x="-81226" y="247389" z="-3626" heading="7491" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80100" x="-81277" y="247404" z="-3626" heading="13193" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80100" x="-81301" y="247317" z="-3626" heading="46344" respawnDelay="60" /> <!-- Белая Ласка - LvL:1-20 -->
+		<npc id="80101" x="-81954" y="247506" z="-3637" heading="32442" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-81855" y="247368" z="-3637" heading="55642" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-81904" y="247235" z="-3637" heading="41030" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-81747" y="247141" z="-3637" heading="59908" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-81940" y="247205" z="-3637" heading="29428" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-82244" y="247140" z="-3637" heading="43814" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-81941" y="247235" z="-3637" heading="15219" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-81935" y="247123" z="-3637" heading="55721" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-81760" y="246856" z="-3627" heading="54615" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-82354" y="247365" z="-3628" heading="25371" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-82451" y="247405" z="-3627" heading="28688" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80101" x="-82440" y="247320" z="-3627" heading="50494" respawnDelay="60" /> <!-- Белая Ласка - LvL:20-40 -->
+		<npc id="80102" x="-82611" y="247122" z="-3637" heading="35240" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82686" y="247108" z="-3637" heading="34692" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82710" y="247002" z="-3637" heading="46829" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82954" y="247093" z="-3637" heading="37274" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82770" y="247269" z="-3637" heading="7960" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82449" y="246886" z="-3637" heading="54879" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82252" y="246919" z="-3637" heading="1731" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82327" y="246701" z="-3637" heading="45695" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82000" y="246708" z="-3637" heading="223" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-81824" y="246393" z="-3637" heading="19661" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-81960" y="246549" z="-3637" heading="22966" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80102" x="-82061" y="246734" z="-3637" heading="21596" respawnDelay="60" /> <!-- Белая Ласка - LvL:40-60 -->
+		<npc id="80103" x="-82657" y="246584" z="-3637" heading="36056" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80103" x="-82470" y="246299" z="-3637" heading="61165" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80103" x="-82268" y="246185" z="-3628" heading="60176" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80103" x="-82264" y="246076" z="-3628" heading="32857" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80103" x="-82401" y="246463" z="-3637" heading="62739" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80103" x="-83090" y="246831" z="-3626" heading="25456" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80103" x="-82993" y="246710" z="-3626" heading="56775" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80103" x="-82957" y="246528" z="-3626" heading="56847" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80103" x="-82530" y="246254" z="-3637" heading="42507" respawnDelay="60" /> <!-- Белая Ласка - LvL:60-75 -->
+		<npc id="80104" x="-83012" y="246501" z="-3626" heading="25843" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-83216" y="246331" z="-3626" heading="28799" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-83107" y="246216" z="-3637" heading="57064" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-82689" y="245855" z="-3634" heading="56802" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-82523" y="245788" z="-3628" heading="61534" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-82789" y="246922" z="-3637" heading="12538" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-82339" y="246674" z="-3637" heading="56239" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-81958" y="246581" z="-3637" heading="63038" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-81887" y="246956" z="-3637" heading="7887" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80104" x="-81495" y="247227" z="-3626" heading="13189" respawnDelay="60" /> <!-- Белая Ласка - LvL:75-85 -->
+		<npc id="80106" x="-81479" y="247851" z="-3588" heading="39805" respawnDelay="60" /> <!-- Элиазар - Наставник Магов -->
+		<npc id="80105" x="-81440" y="247818" z="-3587" heading="40543" respawnDelay="60" /> <!-- Аллиар - Наставник Воинов -->
+	</spawn>
+</list>

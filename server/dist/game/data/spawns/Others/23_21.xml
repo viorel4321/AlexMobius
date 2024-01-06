@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="23_21">
+		<npc id="40081" x="121835" y="113632" z="-3794" heading="21817" respawnDelay="60" /> <!-- Dragon Vortex -->
+		<npc id="40081" x="121675" y="113813" z="-3794" heading="11523" respawnDelay="60" /> <!-- Dragon Vortex -->
+	</spawn>
+</list>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Values that can be set:
+int classId, int hair, int hairColor, int face, int nameColor, int titleColor, int equipRHand, int equipLHand, int equipHead,
+int equipGloves, int equipChest, int equipLegs, int equipFeet, int equipCloak, int equipHair, int equipHair2, int agathionId,
+int weaponEnchantLevel, int armorEnchantLevel, boolean fishing, int baitLocationX, int baitLocationY, int baitLocationZ,
+int recommends, int nobleLevel, boolean hero, int clanId, int pledgeStatus -->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/FakePlayerVisualData.xsd">
+	<!-- equipRHand оруж -->
+	<!-- equipHead  шлем-->
+	<!-- equipGloves  перч-->
+	<!-- equipChest  кираса штаны-->
+	<!-- equipLegs штаны-->
+	<!-- equipFeet  боты-->
+	
+	<!-- Легендарный Воитель-->
+	<fakePlayer npcId="80000" classId="48" hair="0" hero="true" hairColor="2" face="0" equipCloak="21717" weaponEnchantLevel="16" equipRHand="12955" equipHead="15572" equipGloves="9423" equipChest="11555" equipLegs="11512" equipFeet="21796" />
+	<!-- Могучий Стрелок-->
+	<fakePlayer npcId="80001" classId="134" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="16" equipRHand="12951" equipHead="2419" equipGloves="9430" equipChest="11546" equipLegs="11516" equipFeet="21804" />
+	<!-- Искусный Убийца-->
+	<fakePlayer npcId="80002" classId="106" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="16" equipRHand="13882" equipHead="2419" equipGloves="9430" equipChest="11544" equipLegs="11516" equipFeet="21804" />
+	<!-- Великий Защитник-->
+	<fakePlayer npcId="80003" classId="1" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="16" equipLHand="11532" equipRHand="12964" equipHead="2419" equipGloves="9423" equipChest="11529" equipLegs="11512" equipFeet="21796" />
+	<!-- Легендарный Волшебник-->
+	<fakePlayer npcId="80004" classId="13" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="16" equipLHand="12812" equipRHand="12945" equipHead="2419" equipGloves="9439" equipChest="11536" equipLegs="11558" equipFeet="21810" />
+	<!-- Великий Призыватель-->
+	<fakePlayer npcId="80005" classId="39" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="16" equipRHand="12961" equipHead="2419" equipGloves="9439" equipChest="11537" equipLegs="11558" equipFeet="21810" />
+	<!-- Искусный Целитель-->
+	<fakePlayer npcId="80006" classId="29" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="16"  equipLHand="12812" equipRHand="12972" equipHead="2419" equipGloves="9439" equipChest="11538" equipLegs="11558" equipFeet="21810" />
+	<!-- Могучий Заклинатель-->
+	<fakePlayer npcId="80007" classId="52" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="16" equipRHand="12962" equipHead="2419" equipGloves="9439" equipChest="11536" equipLegs="11558" equipFeet="21810" />
+	
+	
+	<!-- Наставник Воинов-->
+	<fakePlayer npcId="80105" classId="1" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="8" equipRHand="12955" equipHead="2419" equipGloves="9423" equipChest="11529" equipLegs="11512" equipFeet="21796" />
+	<!-- Наставник Магов-->
+	<fakePlayer npcId="80106" classId="13" hair="1" hero="true" hairColor="0" face="0" equipCloak="21717" weaponEnchantLevel="8" equipLHand="12812" equipRHand="12945" equipHead="2419" equipGloves="9439" equipChest="11536" equipLegs="11558" equipFeet="21810" />
+
+	
+	
+	
+
+	<!-- Combat -->
+	<!-- Duelist -->
+	<fakePlayer npcId="81001" classId="88" hero="true" hair="0" hairColor="0" face="0" equipRHand="5706" equipHead="2419" equipGloves="5774" equipChest="2383" equipFeet="5786" />
+</list>
